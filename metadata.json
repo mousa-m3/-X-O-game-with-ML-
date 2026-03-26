@@ -1,0 +1,5 @@
+{
+  "name": "Tic-Tac-Toe ML Dashboard",
+  "description": "A professional machine learning dashboard for visualizing model performance on Tic-Tac-Toe classification, featuring accuracy comparisons, confusion matrices, and feature importance analysis.",
+  "requestFramePermissions": []
+}
